@@ -6,10 +6,16 @@
 -->
 <html>
 	<head>
-		<title>No Sidebar - Arcana by HTML5 UP</title>
+		<title>Maps</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<!-- Our CSS -->
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" type="text/css" href="./static/styles.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/MarkerCluster.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/MarkerCluster.Default.css">
+		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+		<!-- Deffered Javascripts -->
 	</head>
 	<body class="is-preload">
 		<div id="page-wrapper">
@@ -18,7 +24,7 @@
 				<div id="header">
 
 					<!-- Logo -->
-						<h1><a href="index.html" id="logo">Arcana <em>by HTML5 UP</em></a></h1>
+					<h1><a href="index.html" id="logo">Food Supply Chain Analysis <em>Beef vs Soybean</em></a></h1>
 
 					<!-- Nav -->
 						<nav id="nav">
@@ -46,7 +52,10 @@
 										<p>All content, all the time.</p>
 									</header>
 
-									<span class="image featured"><img src="images/banner.jpg" alt="" /></span>
+									<div class="image featured">
+										<div id="map"></div>
+									</div>
+
 
 									<p>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.
 									Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.
@@ -103,27 +112,7 @@
 									<li><a href="#">Rutrum amet varius</a></li>
 								</ul>
 							</section>
-							<section class="col-6 col-12-narrower">
-								<h3>Get In Touch</h3>
-								<form>
-									<div class="row gtr-50">
-										<div class="col-6 col-12-mobilep">
-											<input type="text" name="name" id="name" placeholder="Name" />
-										</div>
-										<div class="col-6 col-12-mobilep">
-											<input type="email" name="email" id="email" placeholder="Email" />
-										</div>
-										<div class="col-12">
-											<textarea name="message" id="message" placeholder="Message" rows="5"></textarea>
-										</div>
-										<div class="col-12">
-											<ul class="actions">
-												<li><input type="submit" class="button alt" value="Send Message" /></li>
-											</ul>
-										</div>
-									</div>
-								</form>
-							</section>
+
 						</div>
 					</div>
 
@@ -148,6 +137,10 @@
 		</div>
 
 		<!-- Scripts -->
+		    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+			<script type="text/javascript" src="./assets/js/main_map.js" defer></script>
+			<script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+			<script src="https://unpkg.com/esri-leaflet@3.0.7/dist/esri-leaflet.js"></script>
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.dropotron.min.js"></script>
 			<script src="assets/js/browser.min.js"></script>

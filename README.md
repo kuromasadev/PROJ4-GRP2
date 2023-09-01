@@ -10,7 +10,7 @@ members
 # Food Supply Chain Sustainability
 
 ## synopsis 
-Investigate the environmental and social impacts of different stages of the food supply chain, from production to distribution; of red meat from a cow and tofu from soybean. The metric will be the cost of the unit in each stage of the supply chain and its impact on the environment with respect to Downtown Houston in 2022. 
+Investigate the social impacts of different stages of the food supply chain, from production to distribution; of red meat from a cow and tofu from soybean. The metric will be the cost of the unit in each stage of the supply chain and its impact on the social environment with respect to Downtown Houston in 2022. 
 ## data sources
 
 Typical stages of food supply chain. Generating a database based on the following:
