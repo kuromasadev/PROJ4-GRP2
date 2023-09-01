@@ -1,0 +1,174 @@
+CUST_ID,CUST__NAME,schema_id,Address Type,SKU_ID,sku_name
+2001000,Banyan Foods,S02,point_of_sale,1001018,tofu
+2001000,Banyan Foods,S02,point_of_sale,1001019,soymilk
+2001001,Houston Calco,S01,warehouse,1001021,edemame
+2001002,Tan Tan Tofu,S02,point_of_sale,1001018,tofu
+2001002,Tan Tan Tofu,S02,point_of_sale,1001019,soymilk
+2001003,Thanh Son Tofu,S02,registered_address,1001018,tofu
+2001004,Viet Tien Tofu & Fast Food,S02,point_of_sale,1001018,tofu
+2001004,Viet Tien Tofu & Fast Food,S02,point_of_sale,1001019,soymilk
+2001009,Four Season Food Inc,S02,warehouse,1001018,tofu
+2001009,Four Season Food Inc,B02,warehouse,1001013,"Chuck roast, USDA Choice, boneless"
+2001009,Four Season Food Inc,B02,warehouse,1001014,"Round roast, USDA Choice boneless"
+2001009,Four Season Food Inc,B02,warehouse,1001015,"Round steak, USDA Choice"
+2001009,Four Season Food Inc,B02,warehouse,1001016,Sirloin steak USDA Choice boneless
+2001010,Agisco Commodities Inc,S02,registered_address,1001026,soybean meal
+2001007,Lien Hoa B. Inc,S01,registered_address,1001027,soybean
+2001012,Asoh Traders Ltd,S03,registered_address,1001026,soybean oil
+2001016,Almon Oil International Inc,S03,registered_address,1001026,soybean oil
+2001019,Action Meat Distributors Inc,B01,warehouse,1001000,chuck
+2001019,Action Meat Distributors Inc,B01,warehouse,1001001,brisket
+2001019,Action Meat Distributors Inc,B01,warehouse,1001002,flank
+2001019,Action Meat Distributors Inc,B01,warehouse,1001003,plate
+2001019,Action Meat Distributors Inc,B01,warehouse,1001004,shank
+2001019,Action Meat Distributors Inc,B01,warehouse,1001005,ribs
+2001019,Action Meat Distributors Inc,B01,warehouse,1001006,rump/sirloin
+2001019,Action Meat Distributors Inc,B01,warehouse,1001007,loin
+2001019,Action Meat Distributors Inc,B01,warehouse,1001008,round
+2001019,Action Meat Distributors Inc,B03,warehouse,1001017,Edible offal
+2001020,Amigos Food,B01,warehouse,1001000,chuck
+2001020,Amigos Food,B01,warehouse,1001001,brisket
+2001020,Amigos Food,B01,warehouse,1001002,flank
+2001020,Amigos Food,B01,warehouse,1001003,plate
+2001020,Amigos Food,B01,warehouse,1001004,shank
+2001020,Amigos Food,B01,warehouse,1001005,ribs
+2001020,Amigos Food,B01,warehouse,1001006,rump/sirloin
+2001020,Amigos Food,B01,warehouse,1001007,loin
+2001020,Amigos Food,B01,warehouse,1001008,round
+2001021,Texas Choice Distributing,B01,warehouse,1001000,chuck
+2001021,Texas Choice Distributing,B01,warehouse,1001001,brisket
+2001021,Texas Choice Distributing,B01,warehouse,1001002,flank
+2001021,Texas Choice Distributing,B01,warehouse,1001003,plate
+2001021,Texas Choice Distributing,B01,warehouse,1001004,shank
+2001021,Texas Choice Distributing,B01,warehouse,1001005,ribs
+2001021,Texas Choice Distributing,B01,warehouse,1001006,rump/sirloin
+2001021,Texas Choice Distributing,B01,warehouse,1001007,loin
+2001021,Texas Choice Distributing,B01,warehouse,1001008,round
+2001022,Tejas Meat Distributor,B01,warehouse,1001000,chuck
+2001022,Tejas Meat Distributor,B01,warehouse,1001001,brisket
+2001022,Tejas Meat Distributor,B01,warehouse,1001002,flank
+2001022,Tejas Meat Distributor,B01,warehouse,1001003,plate
+2001022,Tejas Meat Distributor,B01,warehouse,1001004,shank
+2001022,Tejas Meat Distributor,B01,warehouse,1001005,ribs
+2001022,Tejas Meat Distributor,B01,warehouse,1001006,rump/sirloin
+2001022,Tejas Meat Distributor,B01,warehouse,1001007,loin
+2001022,Tejas Meat Distributor,B01,warehouse,1001008,round
+2001023,Big Brother Meat Distributors,B01,warehouse,1001000,chuck
+2001023,Big Brother Meat Distributors,B01,warehouse,1001001,brisket
+2001023,Big Brother Meat Distributors,B01,warehouse,1001002,flank
+2001023,Big Brother Meat Distributors,B01,warehouse,1001003,plate
+2001023,Big Brother Meat Distributors,B01,warehouse,1001004,shank
+2001023,Big Brother Meat Distributors,B01,warehouse,1001005,ribs
+2001023,Big Brother Meat Distributors,B01,warehouse,1001006,rump/sirloin
+2001023,Big Brother Meat Distributors,B01,warehouse,1001007,loin
+2001023,Big Brother Meat Distributors,B01,warehouse,1001008,round
+2001024,Tran Meat Corporation,B01,warehouse,1001000,chuck
+2001024,Tran Meat Corporation,B01,warehouse,1001001,brisket
+2001024,Tran Meat Corporation,B01,warehouse,1001002,flank
+2001024,Tran Meat Corporation,B01,warehouse,1001003,plate
+2001024,Tran Meat Corporation,B01,warehouse,1001004,shank
+2001024,Tran Meat Corporation,B01,warehouse,1001005,ribs
+2001024,Tran Meat Corporation,B01,warehouse,1001006,rump/sirloin
+2001024,Tran Meat Corporation,B01,warehouse,1001007,loin
+2001024,Tran Meat Corporation,B01,warehouse,1001008,round
+2001025,Houston Meat Distributors,B01,warehouse,1001000,chuck
+2001025,Houston Meat Distributors,B01,warehouse,1001001,brisket
+2001025,Houston Meat Distributors,B01,warehouse,1001002,flank
+2001025,Houston Meat Distributors,B01,warehouse,1001003,plate
+2001025,Houston Meat Distributors,B01,warehouse,1001004,shank
+2001025,Houston Meat Distributors,B01,warehouse,1001005,ribs
+2001025,Houston Meat Distributors,B01,warehouse,1001006,rump/sirloin
+2001025,Houston Meat Distributors,B01,warehouse,1001007,loin
+2001025,Houston Meat Distributors,B01,warehouse,1001008,round
+2001026,Meat Planet Inc,B01,warehouse,1001000,chuck
+2001026,Meat Planet Inc,B01,warehouse,1001001,brisket
+2001026,Meat Planet Inc,B01,warehouse,1001002,flank
+2001026,Meat Planet Inc,B01,warehouse,1001003,plate
+2001026,Meat Planet Inc,B01,warehouse,1001004,shank
+2001026,Meat Planet Inc,B01,warehouse,1001005,ribs
+2001026,Meat Planet Inc,B01,warehouse,1001006,rump/sirloin
+2001026,Meat Planet Inc,B01,warehouse,1001007,loin
+2001026,Meat Planet Inc,B01,warehouse,1001008,round
+2001027,Montana Meat LLC,B01,warehouse,1001000,chuck
+2001027,Montana Meat LLC,B01,warehouse,1001001,brisket
+2001027,Montana Meat LLC,B01,warehouse,1001002,flank
+2001027,Montana Meat LLC,B01,warehouse,1001003,plate
+2001027,Montana Meat LLC,B01,warehouse,1001004,shank
+2001027,Montana Meat LLC,B01,warehouse,1001005,ribs
+2001027,Montana Meat LLC,B01,warehouse,1001006,rump/sirloin
+2001027,Montana Meat LLC,B01,warehouse,1001007,loin
+2001027,Montana Meat LLC,B01,warehouse,1001008,round
+2001028,City Meat Steak Co Inc,B01,warehouse,1001000,chuck
+2001028,City Meat Steak Co Inc,B01,warehouse,1001001,brisket
+2001028,City Meat Steak Co Inc,B01,warehouse,1001002,flank
+2001028,City Meat Steak Co Inc,B01,warehouse,1001003,plate
+2001028,City Meat Steak Co Inc,B01,warehouse,1001004,shank
+2001028,City Meat Steak Co Inc,B01,warehouse,1001005,ribs
+2001028,City Meat Steak Co Inc,B01,warehouse,1001006,rump/sirloin
+2001028,City Meat Steak Co Inc,B01,warehouse,1001007,loin
+2001028,City Meat Steak Co Inc,B01,warehouse,1001008,round
+2001029,Houston Meat Processors,B03,warehouse,1001009,Ground chuck
+2001029,Houston Meat Processors,B03,warehouse,1001010,Ground beef
+2001029,Houston Meat Processors,B03,warehouse,1001011,Lean and extra lean ground beef
+2001029,Houston Meat Processors,B03,warehouse,1001012,All uncooked ground beef
+2001029,Houston Meat Processors,B03,warehouse,1001017,Edible offal
+2001030,Latino's Meat Co,B02,point_of_sale,1001013,"Chuck roast, USDA Choice, boneless"
+2001030,Latino's Meat Co,B02,point_of_sale,1001014,"Round roast, USDA Choice boneless"
+2001030,Latino's Meat Co,B02,point_of_sale,1001015,"Round steak, USDA Choice"
+2001030,Latino's Meat Co,B02,point_of_sale,1001016,Sirloin steak USDA Choice boneless
+2001031,BB Butchers & Restaurant,B02,point_of_sale,1001013,"Chuck roast, USDA Choice, boneless"
+2001031,BB Butchers & Restaurant,B02,point_of_sale,1001014,"Round roast, USDA Choice boneless"
+2001031,BB Butchers & Restaurant,B02,point_of_sale,1001015,"Round steak, USDA Choice"
+2001031,BB Butchers & Restaurant,B02,point_of_sale,1001016,Sirloin steak USDA Choice boneless
+2001032,The Butcher Shop,B02,point_of_sale,1001013,"Chuck roast, USDA Choice, boneless"
+2001032,The Butcher Shop,B02,point_of_sale,1001014,"Round roast, USDA Choice boneless"
+2001032,The Butcher Shop,B02,point_of_sale,1001015,"Round steak, USDA Choice"
+2001032,The Butcher Shop,B02,point_of_sale,1001016,Sirloin steak USDA Choice boneless
+2001033,B & W Meat Company,B02,point_of_sale,1001013,"Chuck roast, USDA Choice, boneless"
+2001033,B & W Meat Company,B02,point_of_sale,1001014,"Round roast, USDA Choice boneless"
+2001033,B & W Meat Company,B02,point_of_sale,1001015,"Round steak, USDA Choice"
+2001033,B & W Meat Company,B02,point_of_sale,1001016,Sirloin steak USDA Choice boneless
+2001034,Pete's Fine Meats & Deli,B02,point_of_sale,1001013,"Chuck roast, USDA Choice, boneless"
+2001034,Pete's Fine Meats & Deli,B02,point_of_sale,1001014,"Round roast, USDA Choice boneless"
+2001034,Pete's Fine Meats & Deli,B02,point_of_sale,1001015,"Round steak, USDA Choice"
+2001034,Pete's Fine Meats & Deli,B02,point_of_sale,1001016,Sirloin steak USDA Choice boneless
+2001035,Bud's House of Meat,B02,point_of_sale,1001013,"Chuck roast, USDA Choice, boneless"
+2001035,Bud's House of Meat,B02,point_of_sale,1001014,"Round roast, USDA Choice boneless"
+2001035,Bud's House of Meat,B02,point_of_sale,1001015,"Round steak, USDA Choice"
+2001035,Bud's House of Meat,B02,point_of_sale,1001016,Sirloin steak USDA Choice boneless
+2001036,Farmer's Fresh Meat,B02,point_of_sale,1001013,"Chuck roast, USDA Choice, boneless"
+2001036,Farmer's Fresh Meat,B02,point_of_sale,1001014,"Round roast, USDA Choice boneless"
+2001036,Farmer's Fresh Meat,B02,point_of_sale,1001015,"Round steak, USDA Choice"
+2001036,Farmer's Fresh Meat,B02,point_of_sale,1001016,Sirloin steak USDA Choice boneless
+2001037,Stark Brothers Beef Shop,B02,point_of_sale,1001013,"Chuck roast, USDA Choice, boneless"
+2001037,Stark Brothers Beef Shop,B02,point_of_sale,1001014,"Round roast, USDA Choice boneless"
+2001037,Stark Brothers Beef Shop,B02,point_of_sale,1001015,"Round steak, USDA Choice"
+2001037,Stark Brothers Beef Shop,B02,point_of_sale,1001016,Sirloin steak USDA Choice boneless
+2001038,Hebert's Specialty Meats,B02,point_of_sale,1001013,"Chuck roast, USDA Choice, boneless"
+2001038,Hebert's Specialty Meats,B02,point_of_sale,1001014,"Round roast, USDA Choice boneless"
+2001038,Hebert's Specialty Meats,B02,point_of_sale,1001015,"Round steak, USDA Choice"
+2001038,Hebert's Specialty Meats,B02,point_of_sale,1001016,Sirloin steak USDA Choice boneless
+2001039,El Rey Meat Market,B02,point_of_sale,1001013,"Chuck roast, USDA Choice, boneless"
+2001039,El Rey Meat Market,B02,point_of_sale,1001014,"Round roast, USDA Choice boneless"
+2001039,El Rey Meat Market,B02,point_of_sale,1001015,"Round steak, USDA Choice"
+2001039,El Rey Meat Market,B02,point_of_sale,1001016,Sirloin steak USDA Choice boneless
+2001040,R-C Ranch,B02,point_of_sale,1001013,"Chuck roast, USDA Choice, boneless"
+2001040,R-C Ranch,B02,point_of_sale,1001014,"Round roast, USDA Choice boneless"
+2001040,R-C Ranch,B02,point_of_sale,1001015,"Round steak, USDA Choice"
+2001040,R-C Ranch,B02,point_of_sale,1001016,Sirloin steak USDA Choice boneless
+2001041,Matamoros Meat Co Inc,B02,point_of_sale,1001013,"Chuck roast, USDA Choice, boneless"
+2001041,Matamoros Meat Co Inc,B02,point_of_sale,1001014,"Round roast, USDA Choice boneless"
+2001041,Matamoros Meat Co Inc,B02,point_of_sale,1001015,"Round steak, USDA Choice"
+2001041,Matamoros Meat Co Inc,B02,point_of_sale,1001016,Sirloin steak USDA Choice boneless
+2001042,"Sisters Meats
+",B02,point_of_sale,1001013,"Chuck roast, USDA Choice, boneless"
+2001042,"Sisters Meats
+",B02,point_of_sale,1001014,"Round roast, USDA Choice boneless"
+2001042,"Sisters Meats
+",B02,point_of_sale,1001015,"Round steak, USDA Choice"
+2001042,"Sisters Meats
+",B02,point_of_sale,1001016,Sirloin steak USDA Choice boneless
+2001043,R K Meat Market & Taqueria,B02,point_of_sale,1001013,"Chuck roast, USDA Choice, boneless"
+2001043,R K Meat Market & Taqueria,B02,point_of_sale,1001014,"Round roast, USDA Choice boneless"
+2001043,R K Meat Market & Taqueria,B02,point_of_sale,1001015,"Round steak, USDA Choice"
+2001043,R K Meat Market & Taqueria,B02,point_of_sale,1001016,Sirloin steak USDA Choice boneless

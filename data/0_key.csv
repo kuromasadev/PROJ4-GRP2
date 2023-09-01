@@ -1,0 +1,9 @@
+﻿schema_id,name_desc,avg_US_stock,avg_local_stock,avg_price,avg_local_mktshare
+S01,Soybeans,123356085000.00,802074.75,0.22,176456.44
+S02,Soybean meal,105145425000.00,683667.05,0.19,129896.74
+S03,Soybean oil,29498490000.00,191802.00,0.67,128507.34
+B01,Beef Wholesale,18433740000.00,15925.00,2.54,40519.09
+B02,Beef Retail,6239112000.00,5390.00,6.90,37213.35
+B03,Beef By-products,3686748000.00,3185.00,13.66,43507.10
+,,,,,
+,,,,,
