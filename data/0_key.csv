@@ -1,4 +1,4 @@
-﻿schema_id,name_desc,avg_US_stock,avg_local_stock,avg_price,avg_local_mktshare
+schema_id,name_desc,avg_US_stock,avg_local_stock,avg_price,avg_local_mktshare
 S01,Soybeans,123356085000.00,802074.75,0.22,176456.44
 S02,Soybean meal,105145425000.00,683667.05,0.19,129896.74
 S03,Soybean oil,29498490000.00,191802.00,0.67,128507.34
