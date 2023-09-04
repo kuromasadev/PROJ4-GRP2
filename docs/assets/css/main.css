@@ -3368,3 +3368,10 @@ input, select, textarea {
 			}
 
 	}
+
+.sidebar {
+	position: -webkit-sticky; 
+	position: sticky;
+	top: 65; 
+}
+	
