@@ -101,3 +101,23 @@ Data Preprocessing and Feature engineering was applied to generated an encoded t
 
 Our study seeks to unveil the intricate connections within our food supply chain and their implications for Downtown Houston's environment and societal fabric. By providing a detailed analysis of the associated costs at each stage, we aim to enlighten consumers, businesses, and policymakers on sustainable choices that benefit our planet and community.
 
+
+
+
+
+## Soybeans
+
+**Introduction to Soybeans**
+Soybeans are a globally traded and highly versatile agricultural commodity. They play a significant role in the global food industry, serving as the world's largest source of animal protein feed and the second largest source of vegetable oil. Over the past two decades, soybean production has more than doubled, growing into a staggering $123 billion market. This growth is closely tied to the increasing global demand for meat products, where soybeans are used extensively in livestock feed. Additionally, soybeans are a common ingredient in various human food products, including cooking oils, meat and dairy substitutes, and a wide array of processed foods.
+
+**COMMODITY OVERVIEW**
+The vast majority of global soybean production is used to feed animals. Globally traded and highly versatile, soybeans are the world’s largest source of animal protein feed and the second largest source of vegetable oil.
+
+**Government**
+In the U.S., multiple factors have boosted soybean production over the last decade. These factors have included government policies supporting agricultural production through protection or subsidies, biofuel mandates, international demand, and periods of high prices for agricultural commodities. Acreage for soybean production increased by 10 percent in the U.S. between 2019 and 2020 as a result of these factors.
+
+The soybean supply chain starts with farmers who grow soybeans. Soybeans are grown in a variety of climates around the world, but the United States is the world's largest producer of soybeans.
+
+After the soybeans are harvested, they are transported to processing plants. The processing plants remove the hulls from the soybeans and then crush them to extract the oil. The oil is used in a variety of products, including cooking oil, biodiesel, and lubricants. The remaining meal is used as animal feed.
+
+The processed soybeans are then transported to distributors and retailers, where they are sold to consumers.
