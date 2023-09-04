@@ -1,0 +1,37 @@
+CUST_ID,schema_id,CUST__NAME,supply_desc,Address Type,CUST_ADDRESS,longitude,latitude
+2001000,S02,Banyan Foods,food packaging,point_of_sale,"10940 Wilcrest Dr, Houston, TX 77099",-95.56877853,29.66406157
+2001001,S02,Houston Calco,food manufacturing,warehouse,"2400 Dallas St, Houston, TX 77003",-95.354057,29.74809
+2001002,S02,Tan Tan Tofu,food manufacturing,point_of_sale,"6791 Wilcrest Dr. Houston, TX 77072",-95.5711221,29.7040948
+2001003,S02,Thanh Son Tofu,food manufacturing,registered_address,"13574 SAN MARTIN LN HOUSTON, TX 77083",-95.62334504,29.69582542
+2001004,S02,Viet Tien Tofu & Fast Food,food manufacturing,point_of_sale,"11210 Bellaire Blvd. Ste 132. Houston, TX 77072",-95.57602581,29.70469709
+2001007,S01,Lien Hoa B. Inc,food packaging,registered_address,7611 Summer Glen Ln Houston 77072 United States,-95.61257972,29.69439732
+2001009,S02,Four Season Food Inc,food packaging,warehouse,2010 Holmes Road Houston Tx77045 Texas United States,-95.40226268,29.66913109
+2001010,S02,Agisco Commodities Inc,food packaging,registered_address,910 East Twiford Pampa 79065 Texas United States,-100.9540959,35.54395964
+2001013,S02,Fastlane Trade And Supplies Inc.,food packaging,warehouse,"1718 N Fry Rd, Suite-250 Houston 77084 TX United States",-95.71679058,29.79179312
+2001019,B01,Action Meat Distributors Inc,food packaging,warehouse,"1920 S Starpoint Dr, Houston, TX 77032",-95.37078839,29.95424223
+2001020,B01,Amigos Food,food packaging,warehouse,"611 Crosstimbers St, Houston, TX 77022",-95.39102943,29.8293732
+2001021,B01,Texas Choice Distributing,food packaging,warehouse,"5706 W 34th St, Houston, TX 77092",-95.47338922,29.81930189
+2001022,B01,Tejas Meat Distributor,food packaging,warehouse,"3100 Broadway St, Houston, TX 77017",-95.2780876,29.69507
+2001023,B01,Big Brother Meat Distributors,food packaging,warehouse,"312 Main St Suite A, South Houston, TX 77587",-95.24813703,29.66747968
+2001024,B01,Tran Meat Corporation,food packaging,warehouse,"5429 Clara Rd, Houston, TX 77041",-95.55316355,29.84620724
+2001025,B01,Houston Meat Distributors,food packaging,warehouse,"1015A Red Bluff Rd, Pasadena, TX 77506",-95.1850272,29.7020022
+2001026,B01,Meat Planet Inc,food packaging,warehouse,"7130 Navigation Blvd, Houston, TX 77011",-95.29595118,29.7428092
+2001027,B01,Montana Meat LLC,food packaging,warehouse,"139 Tidwell Rd, Houston, TX 77022",-95.37624,29.845699
+2001028,B01,City Meat Steak Co Inc,food packaging,warehouse,"3511 Canal St, Houston, TX 77003",-95.33682637,29.75211706
+2001029,B03,Houston Meat Processors,food manufacturing,warehouse,"3121 Produce Row, Houston, TX 77023",-95.33096552,29.70939229
+2001030,B02,Latino's Meat Co,food packaging,point_of_sale,"7405 Canal St, Houston, TX 77011",-95.29221951,29.73717069
+2001031,B02,"B&B Butchers & Restaurant
+",food packaging,point_of_sale,"1814 Washington Ave, Houston, TX 77007",-95.3764426,29.767862
+2001032,B02,The Butcher Shop,food packaging,point_of_sale,"1814 Washington Ave suite b, Houston, TX 77007",-95.3763442,29.76797873
+2001033,B02,B & W Meat Company,food packaging,point_of_sale,"4801 N Shepherd Dr, Houston, TX 77018",-95.410882,29.835756
+2001034,B02,Pete's Fine Meats & Deli,food packaging,point_of_sale,"5509 Richmond Ave., Houston, TX 77056",-95.47433504,29.73143702
+2001035,B02,Bud's House of Meat,food packaging,point_of_sale,"6730 Cullen Blvd, Houston, TX 77021",-95.35319763,29.69066431
+2001036,B02,Farmer's Fresh Meat,food packaging,point_of_sale,"8630 Cullen Blvd, Houston, TX 77051",-95.3557954,29.6681492
+2001037,B02,Stark Brothers Beef Shop,food packaging,point_of_sale,"727 Freeport St, Houston, TX 77015",-95.1779633,29.7713106
+2001038,B02,Hebert's Specialty Meats,food packaging,point_of_sale,"4722 Richmond Ave., Houston, TX 77027",-95.45633575,29.7327938
+2001039,B02,El Rey Meat Market,food packaging,point_of_sale,"2430 Airline Dr, Houston, TX 77009",-95.38191104,29.80904935
+2001040,B02,R-C Ranch,food packaging,point_of_sale,"2520 Airline Dr Suite B-210, Houston, TX 77009",-95.3804056,29.81059444
+2001041,B02,Matamoros Meat Co Inc,food packaging,point_of_sale,"6515 Chimney Rock Rd, Houston, TX 77081",-95.47624967,29.71087515
+2001042,B02,"Sisters Meats
+",food packaging,point_of_sale,"9107 Irvington Blvd, Houston, TX 77022",-95.36238675,29.843181
+2001043,B02,R K Meat Market & Taqueria,food packaging,point_of_sale,"2012 W 34th St, Houston, TX 77018",-95.43529367,29.81732614

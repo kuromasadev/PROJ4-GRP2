@@ -11,10 +11,10 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<!-- Our CSS -->
 		<link rel="stylesheet" href="assets/css/main.css" />
-		<link rel="stylesheet" type="text/css" href="./static/styles.css">
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/MarkerCluster.css">
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/MarkerCluster.Default.css">
 		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+		<script src="https://cdn.jsdelivr.net/npm/showdown@1.10.6/dist/showdown.min.js"></script>
 		<!-- Deffered Javascripts -->
 	</head>
 	<body class="is-preload">
@@ -24,7 +24,7 @@
 				<div id="header">
 
 					<!-- Logo -->
-					<h1><a href="index.html" id="logo">Food Supply Chain Analysis <em>Beef vs Soybean</em></a></h1>
+						<h1><a href="index.html" id="logo">Food Supply Chain Analysis <em>Beef vs Soybean</em></a></h1>
 
 					<!-- Nav -->
 						<nav id="nav">
@@ -33,12 +33,13 @@
 								<li><a href="beef.html">Beef</a></li>
 								<li><a href="soyabeans.html">Soyabeans</a></li>
 								<li><a href="comparison.html">Tableau</a></li>
-								<li class="current"><a href="maps.html">Maps </a></li>
+								<li class="current"><a href="maps.html">Maps</a></li>
 							</ul>
 						</nav>
 
 				</div>
 
+				
 			<!-- Main -->
 				<section class="wrapper style1">
 					<div class="container">
@@ -48,38 +49,39 @@
 
 								<article>
 									<header>
-										<h2>Supply and Demand</h2>
-										<p>Mapped for Downtown Houston</p>
+										<h2>Supply and Demand, mapped for Downtown Houston</h2>
 									</header>
 
 									<div class="image featured">
 										<div id="map"></div>
 									</div>
 
-
-									<p>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.
-									Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.
-									Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi
-									consequat etiam lorem ipsum dolor sit amet nullam.</p>
-
-									<h3>And Yet Another Subheading</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus
-									justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem. Pellentesque lorem felis,
-									ultricies a bibendum id, bibendum sit amet nisl. Mauris et lorem quam. Maecenas rutrum imperdiet
-									vulputate. Nulla quis nibh ipsum, sed egestas justo. Morbi ut ante mattis orci convallis tempor.
-									Etiam a lacus a lacus pharetra porttitor quis accumsan odio. Sed vel euismod nisi. Etiam convallis
-									rhoncus dui quis euismod. Maecenas lorem tellus, congue et condimentum ac, ullamcorper non sapien.
-									Donec sagittis massa et leo semper a scelerisque metus faucibus. Morbi congue mattis mi.
-									Phasellus sed nisl vitae risus tristique volutpat. Cras rutrum commodo luctus.</p>
-
-									<p>Phasellus odio risus, faucibus et viverra vitae, eleifend ac purus. Praesent mattis, enim
-									quis hendrerit porttitor, sapien tortor viverra magna, sit amet rhoncus nisl lacus nec arcu.
-									Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt. Mauris dolor urna,
-									fringilla vel malesuada ac, dignissim eu mi. Praesent mollis massa ac nulla pretium pretium.
-									Maecenas tortor mauris, consectetur pellentesque dapibus eget, tincidunt vitae arcu.
-									Vestibulum purus augue, tincidunt sit amet iaculis id, porta eu purus.</p>
+									<h3>Variable Database</h3>
 								</article>
+								<div id="markdown-content">
+									#### *agriculture* 
 
+									- For both beef and soy agricultural source locations, there was not enough data to include in the model. References to the assumed quantity of farmland that might be producing soy was baked into the local market share of that product. 
+
+									#### *supplier*
+
+									- For both beef and soy suppliers, the agricultural commodity websites were scraped and market research took place to find a short list of distributors that would be reasonably plausible to say they serve Downtown Houston. 
+
+									#### *transport*
+
+									- For both beef and soy products, there was not enough data to include transport companies in the model. Research showed that any licensed transport company could potentially hire a commercial driver to bring a shipment in, or provide less-than-truckload (LTL) services at short notice. 
+
+									#### *consumer*
+
+									- Building footprints were lifted from Microsoft's Footprint GIS layer, and matched against Harris County Appraisal District's State Class code which inform building use. 
+									- Business Point of Interest information was brought into the model. 
+								</div>
+								<script>
+									var markdownText = document.getElementById('markdown-content').textContent;
+									var converter = new showdown.Converter();
+									var html = converter.makeHtml(markdownText);
+									document.getElementById('markdown-content').innerHTML = html;
+								</script>
 						</div>
 					</div>
 				</section>
@@ -102,7 +104,8 @@
 
 		<!-- Scripts -->
 		    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-			<script type="text/javascript" src="./assets/js/main_map.js" defer></script>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+			<script type="text/javascript" src="assets/js/main_map.js" defer></script>
 			<script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
 			<script src="https://unpkg.com/esri-leaflet@3.0.7/dist/esri-leaflet.js"></script>
 			<script src="assets/js/jquery.min.js"></script>
