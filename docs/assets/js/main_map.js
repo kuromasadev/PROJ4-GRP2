@@ -558,14 +558,14 @@ map.addLayer(markerCluster);
 
 function getIconUrl(category) {
   if (category === 'Beef') {
-    return '../../assets/img/noun-beef-1870495.png'; 
+    return '../img/beef.png'; 
   } else if (category === 'Soybean') {
-    return '../../assets/img/noun-soybean-4088761.png'; 
+    return '../img/soybean.png'; 
   } else if (category === 'Both') {
-    return '../../assets/img/noun-food-2061329.png'
+    return '../img/food.png'
   }
   // Default icon URL
-  return '../../assets/img/noun-food-2061329.png'; 
+  return '../img/food.png'; 
 }
 
 

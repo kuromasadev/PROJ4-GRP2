@@ -121,3 +121,45 @@ The soybean supply chain starts with farmers who grow soybeans. Soybeans are gro
 After the soybeans are harvested, they are transported to processing plants. The processing plants remove the hulls from the soybeans and then crush them to extract the oil. The oil is used in a variety of products, including cooking oil, biodiesel, and lubricants. The remaining meal is used as animal feed.
 
 The processed soybeans are then transported to distributors and retailers, where they are sold to consumers.
+
+
+
+
+
+## Beef
+
+**Introduction to Beef**
+Demand for beef is expanding, propelled by a rising growth of global population, rising incomes, urbanization, and westernization of diets in developing countries which is expected to continue in the next several decades (by approximately 60 percent by 2050). The U.S., Europe, and Brazil are the largest producers of Beef, accounting for one-third of Global Production. Global beef exports have risen in recent years from 5 percent annually to 20 percent in 2022. In the U.S., given abundant grasslands and a large grain supply, the beef industry is not as closely linked to the dairy sector.
+
+
+
+**Commodity Overview**
+Beef Is the third most commonly consumed meat in the world, after Pork and Chicken. Beef products are typically sold as wholesale cuts, ground beef for commercial use, or packaged cuts sold in retail outlets. Beef by-products, including leather and fat, are used for many non-food items, including candles, crayons, paint, and shoes.
+
+
+
+**Government** 
+
+In the U.S., several dynamics have driven the rise in beef production over the last decade. These include government policies that support livestock farming through protective measures or subsidies, national dietary trends, escalating international demand, and cycles of elevated prices for livestock commodities. Additionally, influential lobbyist-funded organizations, such as the Cattlemen's Beef Board and the National Cattlemen's Beef Association, have played significant roles in advocating for the interests of beef producers. As a result of these factors, the number of cattle raised for beef in the U.S. witnessed a 10 percent growth between 2019 and 2020.
+
+
+
+
+
+**Beef Supply Chains**
+The Beef Supply Chain is complex, involving numerous steps and types of operations. The first stage deals with the Agricultural production that deals with ranching operations (and production of animal feed),meat packing, and processing facilities. The second stage for transport, processing, packaging and distribution. This stage is where it creates two branches: one for wholesale meat, ground beef, packaged cuts and the second for non-food uses(of byproducts, including leather and fat).Then the last stage is for retail and consumption where the food retailers and other outlets sell and distribute the products.
+
+
+
+***Extra information for beef production
+The beef supply chain begins with a cow-calf producer who maintains a breeding herd of cows. Beef cows (and their calves) graze on range and pastureland. When calves are between 6-12 months of age, they are weaned and transported from their ranch or farm of origin. They may be sold at auction, sent to a stocker or backgrounder (if they are younger or lighter weight and need to graze longer), or go directly to a feedlot. In a feedlot (sometimes called a feed yard), the animals are fed a grain-based diet if produced using conventional practices. The time cattle spend in a feedlot is often called the “finishing phase.” However, some producers choose to finish cattle on grass pasture, and the beef derived from these animals is “grass-finished” (sometimes called “grass fed”). Once cattle reach market weight they are sent to a processing facility to be harvested.
+
+
+
+
+
+## Comparison
+
+Navigating the complexities of the food supply chain can be daunting for consumers and local businesses alike. To better understand the intricate web of production, distribution, and consumption, and the costs associated with each stage, it's crucial to tap into the right resources. 
+
+Websites like the Food and Agriculture Organization (FAO) and the United States Department of Agriculture (USDA) provide comprehensive data and insights. Additionally, reports from agricultural research institutions and publications by supply chain experts can offer a deeper dive into the economic and environmental impact of cost variations across the chain. By leveraging these resources, both consumers and businesses can make more informed decisions and contribute to a sustainable and equitable food system.

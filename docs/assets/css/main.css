@@ -25,6 +25,7 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
@@ -2944,8 +2945,9 @@ input, select, textarea {
 
 			header p {
 				margin-top: -0.75em;
+				font-size: 35%;
 			}
-
+			
 			header.major {
 				text-align: center;
 				margin: 0 0 2em 0;
